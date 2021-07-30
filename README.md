@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 ![Aydan's GitHub stats](https://github-readme-stats.vercel.app/api?username=AydanSamedova&theme=darcula&show_icons=true)
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AydanSamedova)](https://github.com/AydanSamedova/github-readme-stats)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=AydanSamedova)
 
 
 
