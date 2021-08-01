@@ -17,11 +17,11 @@
 
  <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/aydan samedova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aydan samedova" height="30" width="40" /></a>
-<a href="https://fb.com/aydan samedova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aydan samedova" height="30" width="40" /></a>
-<a href="https://instagram.com/aydanmad_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aydanmad_" height="30" width="40" /></a>
-<a href="https://medium.com/@aydansamedova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aydansamedova" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/aydan samedova" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aydan samedova" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/aydan-samedova-6a8628196/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="aydan samedova" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100004080731564" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="aydan samedova" height="30" width="40" /></a>
+<a href="https://www.instagram.com/aydanmad_/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="aydanmad_" height="30" width="40" /></a>
+<a href="https://medium.com/me/stories/public" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@aydansamedova" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/aydan2903" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="aydan samedova" height="30" width="40" /></a>
 </p>
 
 
