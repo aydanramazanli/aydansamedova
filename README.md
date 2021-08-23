@@ -19,7 +19,7 @@
 
 <h2 align="left"><font  color="darkyellow"> Top Languages <font/></h2>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aydansamedova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs align="right"](https://github-readme-stats.vercel.app/api/top-langs/?username=aydansamedova&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <h2 align="left">My Github Stats</h2>
