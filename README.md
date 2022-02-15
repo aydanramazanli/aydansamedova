@@ -26,8 +26,8 @@
  <br/>
     <a href="https://github.com/aydansamedova/github-readme-stats"><img alt="aydansamedova's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aydansamedova&show_icons=true&count_private=true&theme=tokyonight&hide_border=true" /></a>
   <a href="https://github.com/aydansamedova/github-readme-stats"><img alt="aydansamedova's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aydansamedova&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true" /></a>
- <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=aydansamedova&theme=dark" padding-left='0px' width='47%' />
   <br/>
+ 
  
 
 
