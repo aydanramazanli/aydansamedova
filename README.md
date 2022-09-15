@@ -7,7 +7,7 @@
 <h4 align="left"> <ul>
 <li>🔭 I’m currently working at Coding.</li>
 
- <li>❤️ I love to research, design wireframes and prototypes, to code, build websites and web applications and bring them to the market.</li>
+ <li>❤️ I love to research, design wireframes and prototypes, to code, build websites and web applications.</li>
  <li> :star2:  I am open to collaborate with other digital content creators.</li>
  <li>
 📚 Learning new things, self driven, hard working and friendly.😃</li>
